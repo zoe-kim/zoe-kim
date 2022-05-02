@@ -1,8 +1,8 @@
-### Hi, I'm Zoe.🌱
+### Hi, I'm Zoe. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 #### ✨ Who am I
- - **Web Publisher**
- - **Interested in Frontend and UX/UI**
+ - Web Publisher
+ - Interested in `Front-end`, `Web Accessibility`, `UX/UI`.
 
 #### ✨ Skills
 <p>

@@ -28,4 +28,4 @@
 </p>
 
 #### ✨ Dev log
-![Sor's GitHub stats](https://github-readme-stats.vercel.app/api?username=zoe-kim&show_icons=true&theme=vue) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zoe-kim&layout=compact&theme=vue)
+![Sor's GitHub stats](https://github-readme-stats.vercel.app/api?username=zoe-kim&show_icons=true&theme=vue)

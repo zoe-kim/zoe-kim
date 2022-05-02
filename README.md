@@ -2,7 +2,7 @@
 
 #### ✨ Who am I
  - Web Publisher
- - Interested in `Front-end`, `Web Accessibility`.
+ - Interested in `Front-end Development`, `Web Accessibility`.
 
 #### ✨ Skills
 <p>

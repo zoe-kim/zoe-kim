@@ -2,7 +2,7 @@
 
 #### ✨ Who am I
  - Web Publisher
- - Interested in `Front-end Development`, `Web Accessibility`.
+ - Interested in `Front-end`, `Web Accessibility`.
 
 #### ✨ Skills
 <p>
@@ -28,4 +28,4 @@
 </p>
 
 #### ✨ Dev log
-![Zoe's GitHub stats](https://github-readme-stats.vercel.app/api?username=zoe-kim&show_icons=true&theme=vue)
+![Zoe's GitHub stats](https://github-readme-stats.vercel.app/api?username=zoe-kim&show_icons=true&count_private=true&custom_title=Zoe's&nbsp;github&nbsp;👀&bg_color=30,62b9a3,64C2FF&title_color=fff&text_color=fff&icon_color=fff)

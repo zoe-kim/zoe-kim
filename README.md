@@ -28,5 +28,5 @@
 
 #### ✨ Dev log
 <a href="https://github.com/zoe-kim">
-<img  src="https://github-readme-stats.vercel.app/api?username=zoe-kim&show_icons=true&include_all_commits=true&count_private=true&custom_title=Zoe's&nbsp;github&nbsp;👀&bg_color=30,62b9a3,64C2FF&title_color=fff&text_color=fff&icon_color=fff"/>
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=zoe-kim&layout=compact&langs_count=7&custom_title=Most&nbsp;Used&nbsp;Languages&nbsp;⌨️&bg_color=30,64C2FF,62b9a3&title_color=fff&text_color=fff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=zoe-kim&show_icons=true&include_all_commits=true&count_private=true&custom_title=Zoe's&nbsp;github&nbsp;👀&bg_color=30,62b9a3,64C2FF&title_color=fff&text_color=fff&icon_color=fff"/>
+<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zoe-kim&layout=compact&langs_count=7&custom_title=Most&nbsp;Used&nbsp;Languages&nbsp;⌨️&bg_color=30,64C2FF,62b9a3&title_color=fff&text_color=fff"/>

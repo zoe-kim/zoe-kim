@@ -9,9 +9,8 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-FF9E0F?style=flat&amp;logo=CSS3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&amp;logo=sass&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gulp-CF4647?style=flat&logo=gulp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
 </p>
 
 #### ✨ Tools
@@ -23,7 +22,6 @@
   <img src="https://img.shields.io/badge/Zeplin-F7A41D?style=flat&logo=Zotero&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/>
 </p>
 
 #### ✨ Dev log
